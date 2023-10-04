@@ -65,11 +65,14 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        I’m a software engineer currently based in Nairobi, Kenya specializing in designing,
+        building, managing and maintaining exceptional digital experiences.
+      </p>
+      <br />
+      <p>
+        Currently, I’m focused on building accessible, human-centered products at{' '}
+        <a href="https://greenlife.co.ke/" target="_blank" rel="noreferrer">
+          Greenlife Crop Protection Africa Ltd
         </a>
         .
       </p>
@@ -81,7 +84,7 @@ const Hero = () => {
       href="https://www.newline.co/courses/build-a-spotify-connected-app"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Let's Connect
     </a>
   );
 
