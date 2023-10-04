@@ -61,20 +61,15 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Amos Okello.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="big-heading">I build software</h3>;
   const four = (
     <>
       <p>
         I’m a software engineer currently based in Nairobi, Kenya specializing in designing,
         building, managing and maintaining exceptional digital experiences.
       </p>
-      <br />
       <p>
-        Currently, I’m focused on building accessible, human-centered products at{' '}
-        <a href="https://greenlife.co.ke/" target="_blank" rel="noreferrer">
-          Greenlife Crop Protection Africa Ltd
-        </a>
-        .
+        I design, build and maintain websites, web applications, ussd applications and chatbots.
       </p>
     </>
   );
